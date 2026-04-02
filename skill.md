@@ -1,3 +1,12 @@
+---
+name: CREAC Legal Essay Generator
+version: 1.0.0
+description: Generates complete CREAC legal essay templates for law students using Claude AI
+language: TypeScript
+model: claude-opus-4-5
+license: MIT
+---
+
 # Skill: CREAC Legal Essay Generator
 
 ## Overview
